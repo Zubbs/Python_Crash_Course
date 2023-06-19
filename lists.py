@@ -44,8 +44,11 @@ print(Guest_list)
 #using .sort()
 # for reverse alphabetical order is (reverse=True)
 #sorted function sorts the value of the list but does not affect the original
+# .sort() sorts the value of the list in place. You would have to print an original to see an output.
 #.reverse() reverses the order of the list
+Guest_list.reverse()
 
+print(Guest_list) 
 
 print(sorted(Guest_list))
 

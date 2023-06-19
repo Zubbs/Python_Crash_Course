@@ -26,8 +26,11 @@ class Die():
         print(randint(1,self.sides))
     
 
+    def __init__(self,ff):
+        super().__init__()
 
-die_1 = Die(3)
+
+die_1 = Die()
 die_1.roll_die()
 die_1.roll_die()
 die_1.roll_die()

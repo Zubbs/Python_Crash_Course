@@ -12,7 +12,7 @@ pizzas = Pizzas[1:]
 
 print(pizzas)
 
-# friend_pizzas =  Pizzas[:]
+friend_pizzas =  Pizzas[:]
 
 # Pizzas.append('spanish')
 
@@ -22,9 +22,9 @@ print(pizzas)
 # for x in Pizzas:
 #     print(x)
 
-# print('My Friends favorite pizzas are: /n') 
-# for y in friend_pizzas:
-#     print(y)
+print('My Friends favorite pizzas are: /n') 
+for y in friend_pizzas:
+    print(y)
 
 # print('The first three items in ths list are: ')
 # sliced = Pizzas[:3]
@@ -34,6 +34,6 @@ print(pizzas)
 # sliced = Pizzas[1:4]
 # print(sliced)
 
-# print('the last three items in the list are: ')
-# sliced = Pizzas[1:4]
-# print(sliced)
+print('the last three items in the list are: ')
+sliced = Pizzas[1:4]
+print(sliced)

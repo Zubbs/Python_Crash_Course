@@ -1,7 +1,7 @@
 # in OOP you write classes that represent real world things and situations and you create objects based on these classes
 # making an object from a class is called instantiation and you would generally be working with instances of classes
 # a function that is part of a class is called a method
-
+# classes start with a capital letter, while functions start with a small letter
 class Dog():
     """A simple attempt to model a dog """
 

@@ -15,9 +15,9 @@ from argparse import _ArgumentGroup
 
 # favourite_book('snail')
 
-#positional arguments are arguments you pass on relative to the position and Python tracks them with appropraite parameters defined in the function
+#positional arguments are arguments you pass on relative to the position and Python tracks them with appropriate parameters defined in the function
 #keyword arguments are arguments passed with name-value pairs, hence freeing you from following an order
-#default values can be specified while defining a parameter. If an argument is defined in a function call, python uses that. else, it defaulsts to default value specified in the parameter
+#default values can be specified while defining a parameter. If an argument is defined in a function call, python uses that. else, it defaults to default value specified in the parameter
 # when using default values it is good practice to list them after all that parameters that don't have any
 
 # def make_shirt(size='Large',text='I love Python'):
