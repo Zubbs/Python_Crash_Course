@@ -1,0 +1,4 @@
+In Python you can see.
+In Python is a great tool for scripts.
+In Python is a great tool for monitoring.
+In Python is a great tool for DevOps
